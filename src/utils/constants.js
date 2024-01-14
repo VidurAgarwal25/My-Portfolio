@@ -275,7 +275,7 @@ export const projectsData = [
     title: "Portfolio Website",
     image: "Portfolio",
     link: null,
-    source: "https://github.com/vaheedsk36/portfolio-website-nextjs",
+    source: "https://github.com/VidurAgarwal25/My-Portfolio",
   },
   {
     type: "WEB-APP",
